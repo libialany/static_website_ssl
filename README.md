@@ -27,6 +27,9 @@ create a cloudfront distribution:
 
 `EASY WAY BY CONSOLE`
 
+dns configuration(go daddy)
+![image](https://user-images.githubusercontent.com/82403984/208913291-300718f5-8ba7-4ebe-b820-e8748c85d300.png)
+
 -----
 
 references:
