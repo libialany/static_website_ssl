@@ -10,7 +10,9 @@ create a public certificate:
 - request_certificate
 
 create a cloudfront distribution:
--
+- cloudfront_distribution
+
+-----
 
 references:
 [cloudfront distribution](https://medium.com/open-devops-academy/create-a-cloudfront-alert-with-terraform-aws-34c7ce294975)
